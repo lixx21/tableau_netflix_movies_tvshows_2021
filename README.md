@@ -22,3 +22,14 @@
 
 # Data Analysis
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; From this visualization I know that:
+
+1. Total movies and tv shows in netflix 2021 is **5.967**
+2. Total movies is **3.867**
+3. Total tv shows is **2.100**
+4. Top genres in netflix 2021 is **dramas**
+5. Top movies and tv shows rating is **TV-MA** 
+6. Total movies and tv shows in 2017-2021 is **decreasing** 
+
+
+

@@ -20,5 +20,5 @@
 
 ![dashboard](https://user-images.githubusercontent.com/91602612/208590529-7393eba3-326c-4911-ab56-c0ec28d85454.png)
 
-# Data Anlysis
+# Data Analysis
 
